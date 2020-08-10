@@ -1,0 +1,8 @@
+-   id: sqlfluff
+    name: sqlfluff
+    entry: sqlfluff
+    language: python
+    'types': [sql]
+    args: []
+    require_serial: false
+    additional_dependencies: []
