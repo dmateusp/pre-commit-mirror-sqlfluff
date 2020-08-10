@@ -1,4 +1,4 @@
-# pre-commit-sqlfluff
+# pre-commit-mirror-sqlfluff
 
 Mirror of sqlfluff tool for pre-commit
 
